@@ -23,7 +23,7 @@ Follow these steps to install and run the project:
 
 1. Clone the repository  
 Open your terminal and run the following command to clone the repository:  
-```git clone https://github.com/adrianhajdin/pricewise.git```  
+```git clone https://github.com/UtkarshPathrabe/PriceWise.git```  
 
 2. Navigate to the project directory  
 ```cd pricewise```  
